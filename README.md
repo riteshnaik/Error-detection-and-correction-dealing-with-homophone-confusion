@@ -14,8 +14,10 @@ Given a text file create a new text file that differs only from the input file i
 
 For example, given a file containing:
 
-    Then pour water or light oil from a graduated beaker into the chamber to fill the chamber too its gasket surface. 
-    The horses moved at a clump; they were no more on parade than was they're driver; one fork of the road was as good as        another. 
+    Then pour water or light oil from a graduated beaker into the chamber to 
+    fill the chamber too its gasket surface. The horses moved at a clump; they
+    were no more on parade than was they're driver; one fork of the road was as 
+    good as another. 
     
 Turn into a new text file containing:
 
