@@ -21,8 +21,8 @@ For example, given a file containing:
 Turn into a new text file containing:
 
     Then pour water or light oil from a graduated beaker into the chamber to fill the chamber to its gasket 
-    surface.The horses moved at a clump; they were no more on parade than was their driver; one fork of the road was as 
-    good as another.
+    surface.The horses moved at a clump; they were no more on parade than was their driver; one fork of the 
+    road was as good as another.
     
 There may be zero, one or more corrections required per line.
 
